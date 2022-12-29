@@ -1,3 +1,5 @@
-# Qiita_article
+# Sentiment_Analysis_for_Tweet
 
-The article was shelved...
+This is a repository of code that performs sentiment analysis on tweets.　\
+I used twitter API v2 and BERT. \
+UF the article was shelved...
